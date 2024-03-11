@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Financial Management</string>
+    <string name="app_name">مای خرج</string>
+    <string name="cost_name">هزینه‌ها</string>
+    <string name="salary_name">درآمدها</string>
+    <string name="home_name">خانه</string>
+    <string name="add">اضافه کردن</string>
+    <string name="addRecordTitle">موضوع</string>
+    <string name="addRecordDesc">توضیحات</string>
+    <string name="addRecordPrice">مبلغ</string>
+    <string name="addCostRecord">اضافه کردن هزینه</string>
+    <string name="addSalaryRecord">اضافه کردن درآمد</string>
+    <string name="submit">ثبت</string>
 </resources>
